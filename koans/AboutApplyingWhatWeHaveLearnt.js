@@ -103,7 +103,7 @@ describe("About Applying What We Have Learnt", function() {
 
   /*********************************************************************************/
   /* UNCOMMENT FOR EXTRA CREDIT */
-  
+  /*
   it("should find the largest prime factor of a composite number", function () {
   
   });
@@ -124,4 +124,5 @@ describe("About Applying What We Have Learnt", function() {
   it("should find the 10001st prime", function () {
 
   });
+  */
 });
